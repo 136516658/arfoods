@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="sdf" size="1.000000 1.429194" />
+    <ImageTarget name="qjky" size="1.000000 1.448352" />
+    <ImageTarget name="cymx" size="1.000000 1.428261" />
+    <ImageTarget name="qgj" size="1.000000 1.442982" />
+  </Tracking>
+</QCARConfig>
